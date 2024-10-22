@@ -77,3 +77,72 @@
 Для отчета и демонстрации проделанной работы создается новая ветка ```report_branch```.
 
 ![Новая ветка](screenshot/новая_ветка.png)
+
+## 3. Логи команд
+
+В процессе выполнения лабораторной работы были использованы следующие команды:
+
+```
+git config --global user.name "4318 Loknovskaya A.D."
+git cofig user.name
+git config user.email
+git clone https://github.com/AnnLoknovskaya/LR6
+git pull origin master
+git log --oneline
+git checkout branch1
+git checkout master
+git show
+git merge branch1
+git status
+git add ...
+git commit -m "comment"
+git push origin --delete branch1
+git reset --hard 438ee03
+git checkout -b report_branch
+git push origin ...
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
